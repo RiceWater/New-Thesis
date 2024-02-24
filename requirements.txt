@@ -22,6 +22,7 @@ grpcio==1.60.1
 gviz-api==1.10.0
 h5py==3.10.0
 idna==3.6
+image_to_numpy==1.0.0
 ipykernel==6.29.2
 ipython==8.21.0
 jedi==0.19.1

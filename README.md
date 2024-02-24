@@ -1,9 +1,7 @@
-## Current Number of Images to Labels in Minimal-Dataset-(5-Labels)
+# 4-400-Dataset
 
-Asphalt Road: 50
-Building: 56
-Concrete Road: 122
-Plant: 68
-Vehicle: 63
+4 - Class count
 
-Currently, heavily biased toward roads
+400 - Sample count per class 
+
+Get the dataset here: https://drive.google.com/drive/folders/1-3hLiLyZ5GJhR5w7YjAppxId70I01doW?usp=sharing 
