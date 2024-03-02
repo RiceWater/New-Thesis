@@ -1,2 +1,0 @@
-
-	/host:CPU"LAPTOP-U6PRIRRN
